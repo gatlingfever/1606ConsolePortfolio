@@ -1,8 +1,6 @@
 # 1606ConsolePortfolio
 Console Programming Portfolio written in C
 
-DirectX 3D 9 Portfolio
-
 ==========================================================================
 
 This Solution is for Portfolio Storage.
